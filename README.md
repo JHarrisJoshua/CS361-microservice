@@ -34,19 +34,13 @@ The communication pipe. Receives messages from the main program's function, as w
 
 The microservice - upon receipt of the request, uses beautiful soup to retrieve the html associated with a table of in-game items and their attributes from a community wiki page. 
 
-
-
 **weapon_stats.json**
 
 In the example above, the raw html information related to in-game weapons and their attributes is stored in a JSON file. The name of the file is returned to the communication pipe, which the main program can use to open the file and retrieve the scraped html. 
 
-
-
-
-
 ## UML Sequence Diagram
-
 
 ## Video Demo
 Here's a Demo of the Microservice:
+
 <https://www.youtube.com/watch?v=UUVHhgp3N5Q>
