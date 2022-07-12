@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Overview](#Overview)
-* [UML Sequence Diagram](#UML)
+* [UML Sequence Diagram](#UML-Sequence-Diamgram)
 * [Video Demo](#Video-Demo)
 
 ## Overview
