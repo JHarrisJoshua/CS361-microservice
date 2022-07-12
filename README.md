@@ -62,7 +62,7 @@ Once a request is sent and received by the microservice, the microservice saves 
 
 The communication pipe. Receives messages from the main program's function, as well as from the microservice program.
 
-**dndscraper**
+**dndscraper.py**
 
 The microservice - upon receipt of the request, uses beautiful soup to retrieve the html associated with a table of in-game items and their attributes from a community wiki page. 
 
