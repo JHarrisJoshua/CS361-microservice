@@ -1,0 +1,232 @@
+{
+    "Simple Weapons": {
+        "Club": {
+            "Cost": "1 Sp",
+            "Damage": "1d4 Bludgeoning",
+            "Weight": "2 Lbs",
+            "Properties": "Light"
+        },
+        "Dagger": {
+            "Cost": "2 Gp",
+            "Damage": "1d4 Piercing",
+            "Weight": "1 Lbs",
+            "Properties": "Finesse, Light, Thrown (20/60)"
+        },
+        "Great-Club": {
+            "Cost": "2 Sp",
+            "Damage": "1d8 Bludgeoning",
+            "Weight": "10 Lbs",
+            "Properties": "Two-Handed"
+        },
+        "Hand-Axe": {
+            "Cost": "5 Gp",
+            "Damage": "1d6 Slashing",
+            "Weight": "2 Lbs",
+            "Properties": "Light, Thrown (20/60)"
+        },
+        "Javelin": {
+            "Cost": "5 Sp",
+            "Damage": "1d6 Piercing",
+            "Weight": "2 Lbs",
+            "Properties": "Thrown (30/120)"
+        },
+        "Light Hammer": {
+            "Cost": "2 Gp",
+            "Damage": "1d4 Bludgeoning",
+            "Weight": "2 Lbs",
+            "Properties": "Light, Thrown (20/60)"
+        },
+        "Mace": {
+            "Cost": "5 Gp",
+            "Damage": "1d6 Bludgeoning",
+            "Weight": "4 Lbs",
+            "Properties": "-"
+        },
+        "Quarterstaff": {
+            "Cost": "2 Sp",
+            "Damage": "1d6 Bludgeoning",
+            "Weight": "4 Lbs",
+            "Properties": "Versatile (1d8)"
+        },
+        "Sickle": {
+            "Cost": "1 Gp",
+            "Damage": "1d4 Slashing",
+            "Weight": "2 Lbs",
+            "Properties": "Light"
+        },
+        "Spear": {
+            "Cost": "1 Gp",
+            "Damage": "1d6 Piercing",
+            "Weight": "3 Lbs",
+            "Properties": "Thrown (20/60), Versatile (1d8)"
+        }
+    },
+    "Simple Ranged Weapons": {
+        "Crossbow, Light": {
+            "Cost": "25 Gp",
+            "Damage": "1d8 Piercing",
+            "Weight": "5 Lbs",
+            "Properties": "Ammunition, Range (80/320), Loading, Two-Handed"
+        },
+        "Dart": {
+            "Cost": "5 Cp",
+            "Damage": "1d4 Piercing",
+            "Weight": "1/4 Lbs",
+            "Properties": "Finesse, Thrown (20/60)"
+        },
+        "Shortbow": {
+            "Cost": "25 Gp",
+            "Damage": "1d6 Piercing",
+            "Weight": "2 Lbs",
+            "Properties": "Ammunition, Range (80/320), Two-Handed"
+        },
+        "Sling": {
+            "Cost": "1 Sp",
+            "Damage": "1d4 Piercing",
+            "Weight": "-",
+            "Properties": "Ammunition, Range (30/120)"
+        }
+    },
+    "Martial Weapons": {
+        "Battleaxe": {
+            "Cost": "10 Gp",
+            "Damage": "1d8 Slashing",
+            "Weight": "4 Lbs",
+            "Properties": "Versatile (1d10)"
+        },
+        "Flail": {
+            "Cost": "10 Gp",
+            "Damage": "1d8 Bludgeoning",
+            "Weight": "2 Lbs",
+            "Properties": "-"
+        },
+        "Glaive": {
+            "Cost": "20 Gp",
+            "Damage": "1d10 Slashing",
+            "Weight": "6 Lbs",
+            "Properties": "Heavy, Reach, Two-Handed"
+        },
+        "Greataxe": {
+            "Cost": "30 Gp",
+            "Damage": "1d12 Slashing",
+            "Weight": "7 Lbs",
+            "Properties": "Heavy, Two-Handed"
+        },
+        "Great-sword": {
+            "Cost": "50 Gp",
+            "Damage": "2d6 Slashing",
+            "Weight": "6 Lbs",
+            "Properties": "Heavy, Two-Handed"
+        },
+        "Halberd": {
+            "Cost": "20 Gp",
+            "Damage": "1d10 Slashing",
+            "Weight": "6 Lbs",
+            "Properties": "Heavy, Reach, Two-Handed"
+        },
+        "Lance": {
+            "Cost": "10 Gp",
+            "Damage": "1d12 Piercing",
+            "Weight": "6 Lbs",
+            "Properties": "Reach, Special"
+        },
+        "Long-sword": {
+            "Cost": "15 Gp",
+            "Damage": "1d8 Slashing",
+            "Weight": "3 Lbs",
+            "Properties": "Versatile (1d10)"
+        },
+        "Maul": {
+            "Cost": "10 Gp",
+            "Damage": "2d6 Bludgeoning",
+            "Weight": "10 Lbs",
+            "Properties": "Heavy, Two-Handed"
+        },
+        "Morning-star": {
+            "Cost": "15 Gp",
+            "Damage": "1d8 Piercing",
+            "Weight": "4 Lbs",
+            "Properties": "-"
+        },
+        "Pike": {
+            "Cost": "5 Gp",
+            "Damage": "1d10 Piercing",
+            "Weight": "18 Lbs",
+            "Properties": "Heavy, Reach, Two-Handed"
+        },
+        "Rapier": {
+            "Cost": "25 Gp",
+            "Damage": "1d8 Piercing",
+            "Weight": "2 Lbs",
+            "Properties": "Finesse"
+        },
+        "Scimitar": {
+            "Cost": "25 Gp",
+            "Damage": "1d6 Slashing",
+            "Weight": "3 Lbs",
+            "Properties": "Finesse, Light"
+        },
+        "Short-sword": {
+            "Cost": "10 Gp",
+            "Damage": "1d6 Piercing",
+            "Weight": "2 Lbs",
+            "Properties": "Finesse, Light"
+        },
+        "Trident": {
+            "Cost": "5 Gp",
+            "Damage": "1d6 Piercing",
+            "Weight": "4 Lbs",
+            "Properties": "Thrown (20/60), Versatile (1d8)"
+        },
+        "War pick": {
+            "Cost": "5 Gp",
+            "Damage": "1d8 Piercing",
+            "Weight": "2 Lbs",
+            "Properties": "-"
+        },
+        "War-hammer": {
+            "Cost": "15 Gp",
+            "Damage": "1d8 Bludgeoning",
+            "Weight": "2 Lbs",
+            "Properties": "Versatile (1d10)"
+        },
+        "Whip": {
+            "Cost": "2 Gp",
+            "Damage": "1d4 Slashing",
+            "Weight": "3 Lbs",
+            "Properties": "Finesse, Reach"
+        }
+    },
+    "Martial Ranged Weapons": {
+        "Blowgun": {
+            "Cost": "10 Gp",
+            "Damage": "1 Piercing",
+            "Weight": "1 Lbs",
+            "Properties": "Ammunition, Range (25/100), Loading"
+        },
+        "Crossbow, Hand": {
+            "Cost": "75 Gp",
+            "Damage": "1d6 Piercing",
+            "Weight": "3 Lbs",
+            "Properties": "Ammunition, Range (30/120), Light, Loading"
+        },
+        "Crossbow, Heavy": {
+            "Cost": "50 Gp",
+            "Damage": "1d10 Piercing",
+            "Weight": "18 Lbs",
+            "Properties": "Ammunition, Range (100/400), Heavy, Loading, Two-Handed"
+        },
+        "Longbow": {
+            "Cost": "50 Gp",
+            "Damage": "1d8 Piercing",
+            "Weight": "2 Lbs",
+            "Properties": "Ammunition, Range (150/600), Heavy, Two-Handed"
+        },
+        "Net": {
+            "Cost": "1 Gp",
+            "Damage": "-",
+            "Weight": "3 Lbs",
+            "Properties": "Special, Thrown (5/15)"
+        }
+    }
+}
