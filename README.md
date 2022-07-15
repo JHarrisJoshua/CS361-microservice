@@ -77,4 +77,4 @@ In the example above, the information related to in-game weapons and their attri
 ## Video Demo
 Here's a Demo of the Microservice:
 
-<https://www.youtube.com/watch?v=UUVHhgp3N5Q>
+https://www.youtube.com/watch?v=-3f5Cr0Ud9w
